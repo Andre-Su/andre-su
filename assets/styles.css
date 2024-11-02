@@ -17,13 +17,22 @@ body {
 a {
     color: #a88100;
     text-decoration: none;
+    padding: 0, 0px;
 }
 
 a:hover{
-    color: #777;
+    color: #5f5f5f;
+    background-color: #ddd;
+    border-radius: 10%;
+    padding: .5px;
 }
 a:visited{
     color: #776606;
+}
+
+.svg-link {
+    margin-right: 10px;
+    width: 25px;
 }
 
 .container {
@@ -88,7 +97,7 @@ ul {
 }
 
 .skills li:hover{
-    font-size: 1.2rem;
+    font-size: 1.02rem;
 }
 
 footer #note{
