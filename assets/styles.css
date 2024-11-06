@@ -96,22 +96,37 @@ ul {
     margin: 5xp;
 }
 
-.skills li:hover{
+.skills li:hover {
     font-size: 1.02rem;
 }
 
-footer #note{
+#my-info {
+    background-color: #ebebeb;
+    padding: 3%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#my-info article {
+    margin: 3% 0;
+}
+
+footer {
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 10px 10px 0 0;
+    background: #333333;
+    border-top: 1px solid #ddd;
+    color: #ebebeb;
+    padding: 0 30px 20px 30px;
+}
+
+footer #note {
     text-align: center;
     margin-top: 30px;
     font-size: 0.8em;
-    color: #757575;
 }
 
-footer p {
-    border-top: 1px solid #ddd;
-    padding-top: 10px;
-}
-
-footer section ul li{
+footer section ul li {
     list-style-type: none;
 }
