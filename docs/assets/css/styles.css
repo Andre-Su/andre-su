@@ -108,11 +108,16 @@ ul {
     font-size: 1.02rem;
 }
 
-#my-info {
+article {
+    margin: 10px 0 10px 0;
+    padding: 10px 5px 10px 5px;
     background-color: #ebebeb;
-    padding: 3%;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#my-info {
+    padding: 3%;
 }
 
 #my-info article {
@@ -133,6 +138,10 @@ footer #note {
     text-align: center;
     margin-top: 30px;
     font-size: 0.8em;
+}
+
+footer #note a {
+    color: #e9b200;
 }
 
 footer section ul li {
