@@ -5,6 +5,8 @@
 - 🔭 I’m currently working on ... `not yet`
   - my personal blog and portfolio page
 - 📎 My current side project is [This page](https://blog.andre-su.com.br)
+  - repository [here](https://github.com/Andre-Su/my-blog)
+  - [alt page](https://blog-andre-su.pages.dev/)
 - 🌱 I’m currently learning
   - Java back-end
   - Kotlin and (mainly) Java for Android
