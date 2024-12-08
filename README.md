@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on ... `not yet`
+- 🔭 I’m currently working on ...
   - my personal blog and portfolio page
 - 📎 My current side project is [This page](https://blog.andre-su.com.br)
   - repository [here](https://github.com/Andre-Su/my-blog)
