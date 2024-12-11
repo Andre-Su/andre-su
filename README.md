@@ -2,13 +2,16 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on ... `not yet`
-- 📎 My current side project is [This page](https://andre-su.github.io/andre-su/)
+- 🔭 I’m currently working on ...
+  - my personal blog and portfolio page
+- 📎 My current side project is [This page](https://blog.andre-su.com.br)
+  - repository [here](https://github.com/Andre-Su/my-blog)
+  - [alt page](https://blog-andre-su.pages.dev/)
 - 🌱 I’m currently learning
   - Java back-end
-  - Kotlin for Android
+  - Kotlin and (mainly) Java for Android
 
-- 🤔 I’m looking for help with `Kotlin`
+- 🤔 I’m looking for help with `Android Development`
 - 💬 Ask me about `Anything on technology`
 - 📫 How to reach me:
   - [aascnpc@gmail.com](mailto:aascnpc@gmail.com)
