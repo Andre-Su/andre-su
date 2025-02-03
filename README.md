@@ -1,15 +1,17 @@
 # README.md
 
 ## Hi there 👋
+I'm André Augusto, you can check out my **portfolio at [andre-su.com.br](https://andre-su.com.br)**
 
-- 🔭 I’m currently working on ...
+**- 🔭 I’m currently working on ...**
   - my personal blog and portfolio page
-- 📎 My current side project is [This page](https://blog-andre-su.pages.dev/)
+**- 📎 My current side project is [This page](https://blog-andre-su.pages.dev/)**
   - repository [here](https://github.com/Andre-Su/my-blog)
-  - [Final link](https://blog.andre-su.com.br)
-- 🌱 I’m currently learning
+  - [Final link](https://andre-su.com.br)
+- **🌱 I’m currently learning**
   - Java back-end
   - Kotlin and (mainly) Java for Android
+  - Web front-end development
 
 - 🤔 I’m looking for help with `Android Development`
 - 💬 Ask me about `Anything on technology`
